@@ -1,4 +1,4 @@
-// 모달을 생성하고 설정하는 함수
+// 모달을 생성하고 설정하는 함수.
 function showModal(imageUrl, text) {
   // 기존에 모달이 있다면 제거합니다.
   const existingModal = document.querySelector('.modal');
